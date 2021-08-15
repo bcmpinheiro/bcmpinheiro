@@ -20,11 +20,13 @@
   <img align="center" alt="Bah-GitLab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-plain-wordmark.svg">
   
   
+  ![Snake animation] (https://raw.githubusercontent.com/bcmpinheiro/bcmpinheiro/output/github-contribution-grid-snake.svg)
+  
 </div>
   
 ##
 
-  ![Snake animation] (https://raw.githubusercontent.com/bcmpinheiro/bcmpinheiro/output/github-contribution-grid-snake.svg)
+  
   
 ##
 
